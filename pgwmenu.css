@@ -50,10 +50,11 @@
     font-size: 0.9rem;
 }
 
-.pgwMenu a{
+.pgwMenu a {
     display: block;
     color: #fff;
     line-height: 40px;
+    outline: 0;
     padding: 0 12px;
     text-decoration: none;
 }
@@ -70,12 +71,12 @@
     background: #c5c5c5;
 }
 
-.pgwMenu li a:hover{
+.pgwMenu li a:hover {
     background: #666;
     text-decoration: none;
 }
 
-.pgwMenu.light li a:hover{
+.pgwMenu.light li a:hover {
     background: #d0d0d0;
 }
 
